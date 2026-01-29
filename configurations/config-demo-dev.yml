@@ -1,0 +1,9 @@
+config:
+  version: 1.0.0
+  last-updated: 2026-01-29T10:30:00Z
+
+app:
+  database-url: jdbc:postgresql://git-dev:5432/db
+  api-key: D0Bd8xRjJ5T3
+  feature-flags:
+    experimental-api-enabled: true
