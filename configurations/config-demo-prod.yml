@@ -3,7 +3,7 @@ config:
   last-updated: 2026-01-29T10:30:00Z
 
 app:
-  database-url: jdbc:postgresql://git-prod:7000/db
+  database-url: jdbc:postgresql://git-prod:8000/db
   api-key: P1Ce9yRkK6U3
   feature-flags:
-    experimental-api-enabled: false
+    experimental-api-enabled: true
