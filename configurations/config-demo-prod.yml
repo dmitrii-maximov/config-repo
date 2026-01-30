@@ -6,4 +6,4 @@ app:
   database-url: jdbc:postgresql://git-prod:5432/db
   api-key: P1Ce9yRkK6U3
   feature-flags:
-    experimental-api-enabled: true
+    experimental-api-enabled: false
